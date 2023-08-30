@@ -26,7 +26,7 @@ tenha um bom dia
 
 que tenga un lindo día
 
-좋은 하루 되세요
+$$좋은 하루 되세요$$
 
 өдрийг сайхан өнгөрүүлээрэй
 
