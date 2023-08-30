@@ -1,4 +1,4 @@
-Have a good day
+$Have a good day
 
 祝你今天过得愉快
 
@@ -26,7 +26,7 @@ tenha um bom dia
 
 que tenga un lindo día
 
-$$좋은 하루 되세요$$
+좋은 하루 되세요
 
 өдрийг сайхан өнгөрүүлээрэй
 
@@ -48,4 +48,4 @@ hav en god dag
 
 хәерле көн телим
 
-buona giornata
+buona giornata$
