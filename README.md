@@ -1,4 +1,4 @@
-$$ Have a good day
+Have a good day
 
 祝你今天过得愉快
 
