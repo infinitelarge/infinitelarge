@@ -1,21 +1,51 @@
 Have a good day
 
-que tenga un buen día
+祝你今天过得愉快
+
+bonum diem habeas
+
+kalofshi nje dite te bukur
+
+da no nkɔ yie mma wo
+
+መልካም ቀን ይሁንልህ
+
+দিনটো শুভ হওক
+
+gözəl gün arzu edirəm
+
+ŋkekea me nenyo
+
+suma urupana
+
+lá maith agat
 
 passe une bonne journée
 
+tenha um bom dia
+
+que tenga un lindo día
+
+좋은 하루 되세요
+
+өдрийг сайхан өнгөрүүлээрэй
+
+祝你今天過得愉快
+
 хорошего дня
 
-좋은 하루 보내세요
+havu bonan tagon
 
-να έχεις μια όμορφη μέρα
+semoga harimu menyenangkan
 
-Өдрийг сайхан өнгөрүүлээрэй
+hauskaa päivän jatkoa
 
-Semoga hari anda indah
+ကောင်းသောနေ့ဖြစ်ပါစေ
 
+Einen schönen Tag noch
 
+hav en god dag
 
-Updates Aug 29th 2023:ChatGPT web & mobile UIs unavailable
+хәерле көн телим
 
-
+buona giornata
