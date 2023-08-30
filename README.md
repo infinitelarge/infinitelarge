@@ -1,4 +1,4 @@
-$Have a good day
+$$ Have a good day
 
 祝你今天过得愉快
 
@@ -48,4 +48,4 @@ hav en god dag
 
 хәерле көн телим
 
-buona giornata$
+buona giornata $$
